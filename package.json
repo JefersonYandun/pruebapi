@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JefersonYandun/pruebapi/issues"
   },
-  "homepage": "https://github.com/JefersonYandun/pruebapi#readme"
+  "homepage": "https://github.com/JefersonYandun/pruebapi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
